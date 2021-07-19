@@ -1,0 +1,9 @@
+{
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": true,
+  "formatOnSave": true,
+  "printWidth": 80,
+  "jsxBracketSameLine": true,
+  "arrowParens": "avoid"
+}
