@@ -2,13 +2,12 @@
 
 이름은 거창한데 뭐 하나 테스트 할 때 하나하나 셋업하기 귀찮아서 만듦🐸
 
-node는 반드시 14 LTS버전을 사용 할 것. (node-sass때문)
 
 사용된 패키지 : 
 - CRA (ts)
 - storybook
 - recoil
-- node-sass
+- dart-sass
 - react-router-dom
 - i18next
 - prettier
