@@ -10,6 +10,7 @@
 - dart-sass
 - react-router-dom
 - i18next
+- react-testing-library
 - prettier
 
 
